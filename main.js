@@ -1,7 +1,8 @@
 let chores = [
   "Sweep",
   "Dishes",
-  "Trash"
+  "Trash",
+  "Take a break"
 ]
 
 let unorderedList = document.getElementById('todo-list')
